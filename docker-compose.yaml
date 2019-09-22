@@ -1,0 +1,5 @@
+version: '3.7'
+services:
+  app-nginx:
+    build: ./
+    image: app-nginx
